@@ -17,6 +17,12 @@
     animation-fill-mode: forwards;
 
 }
+body{
+    background-image: url('../images/landscape-1844226_1920.png');
+    background-attachment: fixed;
+    background-size: cover;
+}
+
 div:hover{
     animation-play-state: paused;
 }
